@@ -1,34 +1,16 @@
-# FreeRDP: A Remote Desktop Protocol Implementation
+# WINRDP
+How to use 
 
-FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license.
-Enjoy the freedom of using your software wherever you want, the way you want it, in a world where
-interoperability can finally liberate your computing experience.
+Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
-## Resources
+Input the following code in the fields.
 
-Project website: https://www.freerdp.com/  
-Issue tracker: https://github.com/FreeRDP/FreeRDP/issues  
-Sources: https://github.com/FreeRDP/FreeRDP/  
-Downloads: https://pub.freerdp.com/releases/  
-Wiki: https://github.com/FreeRDP/FreeRDP/wiki  
-API documentation: https://pub.freerdp.com/api/  
+Get the Windows (Powershell) command from here:
 
-Security policy: https://github.com/FreeRDP/FreeRDP/security/policy
+https://remotedesktop.google.com/headless
 
-Matrix room : #FreeRDP:matrix.org (main)
-XMPP channel: #FreeRDP#matrix.org@matrix.org (bridged)
-IRC channel : #freerdp @ irc.oftc.net (bridged)
-Mailing list: https://lists.sourceforge.net/lists/listinfo/freerdp-devel
+Enter you Six digit Pin code to Login
 
-## Microsoft Open Specifications
+(Any Six digit Pin)
 
-Information regarding the Microsoft Open Specifications can be found at:
-https://www.microsoft.com/openspecifications/
-
-A list of reference documentation is maintained here:
-https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
-
-## Compilation
-
-Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
